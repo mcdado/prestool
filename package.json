@@ -1,0 +1,29 @@
+{
+  "name": "prestool",
+  "version": "0.0.1",
+  "description": "Tools for PrestaShop module development",
+  "main": "bin/prestool.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcdado/prestool.git"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "tool",
+    "prestashop",
+    "development"
+  ],
+  "author": "David Gasperoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcdado/prestool/issues"
+  },
+  "homepage": "https://github.com/mcdado/prestool#readme",
+  "dependencies": {
+    "caporal": "^0.3.0"
+  }
+}
